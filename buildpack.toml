@@ -2,7 +2,7 @@ api = "0.4"
 
 [buildpack]
 id = "jimcru21/custombinaries"
-version = "1.0.2"
+version = "1.0.3"
 name = "Custom Binary Buildpack"
 homepage = "https://github.com/jimcru21/heroku-buildpack-custom-binaries"
 description = "Installs custome binaries for further builds and runtime"
