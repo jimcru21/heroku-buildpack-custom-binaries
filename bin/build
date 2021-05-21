@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# bin/compile <build-dir> <cache-dir> <env-dir>
+# bin/build <build-dir> <cache-dir> <env-dir>
 
 require "yaml"
 require "pathname"
