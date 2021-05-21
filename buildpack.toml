@@ -1,10 +1,12 @@
 api = "0.4"
 
 [buildpack]
+id = "jimcru21/custom_binaries"
 version = "0.1.0"
-name = "apt Packages Buildpack"
+name = "Custom Binary Buildpack"
 homepage = "https://github.com/jimcru21/heroku-buildpack-custom-binaries"
-description = "Installs custom binaries"
+description = "Installs custome binaries for further builds and runtime"
+keywords = ["custom binaries", "packages", "ubuntu"]
 
 [[buildpack.licenses]]
 type = "MIT"
